@@ -1,0 +1,59 @@
+System Information:
+
+Hostname: Withs-MacBook-Air.local
+Internal IP: 127.0.0.1
+External IP: 101.0.62.15
+Processor: arm
+OS: Darwin
+OS Version: Darwin Kernel Version 24.3.0: Thu Jan  2 20:23:36 PST 2025; root:xnu-11215.81.4~3/RELEASE_ARM64_T8112
+Machine Name: arm64
+CPU Count: 8
+CPU Frequency: 3504 MHz
+CPU Usage: 8.5%
+Total Memory: 8.00 GB
+Available Memory: 2.47 GB
+Used Memory: 3.69 GB
+Memory Usage: 69.1%
+Total Disk Space: 228.27 GB
+Used Disk Space: 10.76 GB
+Free Disk Space: 165.30 GB
+Disk Usage: 6.1%
+Boot Time: 2025-02-20 09:35:20
+Current Directory: /Users/withmani/Desktop/KeyLogger
+
+Environment Path Variables and Other Details:
+
+MallocNanoZone: 1
+USER: withmani
+COMMAND_MODE: unix2003
+__CFBundleIdentifier: com.microsoft.VSCode
+PATH: /Library/Java/JavaVirtualMachines/temurin-21.jdk/Contents/Home/bin:/Users/withmani/Library/Application Support/Code/User/globalStorage/pleiades.java-extension-pack-jdk/gradle/latest/bin:/Users/withmani/Library/Application Support/Code/User/globalStorage/pleiades.java-extension-pack-jdk/maven/latest/bin:/Library/Frameworks/Python.framework/Versions/3.13/bin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/usr/local/mysql/bin/:/Users/withmani/.vscode/extensions/ms-python.debugpy-2025.0.1-darwin-arm64/bundled/scripts/noConfigScripts:/usr/local/mysql/bin/
+LOGNAME: withmani
+SSH_AUTH_SOCK: /private/tmp/com.apple.launchd.fK97k2lxuI/Listeners
+HOME: /Users/withmani
+MallocSpaceEfficient: 1
+SHELL: /bin/zsh
+EXTENSION_KIT_EXTENSION_TYPE: 2
+TMPDIR: /var/folders/8n/_0_l7sk546nb25q4wd5qdhpw0000gn/T/
+__CF_USER_TEXT_ENCODING: 0x1F5:0x0:0x0
+XPC_SERVICE_NAME: 0
+XPC_FLAGS: 0x0
+ORIGINAL_XDG_CURRENT_DESKTOP: undefined
+SHLVL: 1
+PWD: /Users/withmani/Desktop/KeyLogger
+OLDPWD: /Users/withmani/Desktop/KeyLogger
+ZDOTDIR: /Users/withmani/Library/Application Support/Code/User/globalStorage/pleiades.java-extension-pack-jdk
+JAVA_HOME: /Library/Java/JavaVirtualMachines/temurin-21.jdk/Contents/Home
+TERM_PROGRAM: vscode
+TERM_PROGRAM_VERSION: 1.97.0
+LANG: en_US.UTF-8
+COLORTERM: truecolor
+PYDEVD_DISABLE_FILE_VALIDATION: 1
+DEBUGPY_ADAPTER_ENDPOINTS: /Users/withmani/.vscode/extensions/ms-python.debugpy-2025.0.1-darwin-arm64/.noConfigDebugAdapterEndpoints/endpoint-db439ce4b69f7d71.txt
+BUNDLED_DEBUGPY_PATH: /Users/withmani/.vscode/extensions/ms-python.debugpy-2025.0.1-darwin-arm64/bundled/libs/debugpy
+AUTO_CONFIG_PATH: /Users/withmani/Library/Application Support/Code/User/globalStorage/pleiades.java-extension-pack-jdk/gradle/latest/bin:/Users/withmani/Library/Application Support/Code/User/globalStorage/pleiades.java-extension-pack-jdk/maven/latest/bin
+VSCODE_INJECTION: 1
+USER_ZDOTDIR: /Users/withmani/Library/Application Support/Code/User/globalStorage/pleiades.java-extension-pack-jdk
+TERM: xterm-256color
+_: /usr/bin/python3
+LD_LIBRARY_PATH: /Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/cv2/../../lib:
