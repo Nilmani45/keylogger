@@ -13,12 +13,12 @@ Can be used as a reference for understanding security vulnerabilities in softwar
 Usage:
 
 Clone the repository:
-
+git clone https://github.com/Nilmani45/keylogger.git
 
 Run the keylogger:
-
-python keylogger.py (on Windows)
-sudo python3 keylogger.py (on mac)
+1. cd KeyLogger
+2.  python keylogger.py (on Windows)
+    sudo python3 keylogger.py (on mac)
 
 Logs will be saved to logs.txt (or the configured file path).
 
